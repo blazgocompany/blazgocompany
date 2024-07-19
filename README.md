@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi Welcome to Blazgo!</h3>
-<h3 align="center">A full-stack web developer</h3>
 
 
 
