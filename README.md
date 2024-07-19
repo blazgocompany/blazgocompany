@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I still haven't learnt how to make fun facts.
 
 
-[![Static Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=codepen)](https://codepen.io/BlazgoCompany)
+[![Static Badge](https://img.shields.io/badge/Codepen-blue?style=social&logo=codepen)](https://codepen.io/BlazgoCompany)
 
 
 
