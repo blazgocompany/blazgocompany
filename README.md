@@ -10,9 +10,13 @@
 - 💬 Ask me about: Nothing. Ask ChatGPT if you're that curious.
 - ⚡ Fun fact: I still haven't learnt how to make fun facts.
 
-<a href="https://codepen.io/infiniteerrors">Codepen</a>
+
+[![Static Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=codepen)](https://codepen.io/BlazgoCompany)
+
+
 
  <p align="center">
+  
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
